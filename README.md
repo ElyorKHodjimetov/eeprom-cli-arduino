@@ -41,7 +41,7 @@ eeprom -d
 1. Клонировать репозиторий:
 
    ```bash
-   git clone https://github.com/your_username/eeprom-cli-arduino.git
+   git clone https://github.com/ElyorKHodjimetov/eeprom-cli-arduino.git
    cd eeprom-cli-arduino
    ```
 2. Открыть `eeprom_cli.ino` в Arduino IDE.
